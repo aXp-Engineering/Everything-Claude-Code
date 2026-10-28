@@ -40,3 +40,6 @@ examples/sessions/*.tmp
 
 # Local drafts
 marketing/
+
+# Anchor-memory plugin session checkpoints (auto-generated)
+.anchor/
